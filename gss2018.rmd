@@ -44,7 +44,7 @@ The helper file we use is CAT~CAT
 
 $H_0$: Opinion on captial punishment is independent of gun ownership
 
-$H_A$: 
+$H_A$: There is no difference on capital punishmen that is independent of gun ownership
 
 ### Descriptive Results
 
